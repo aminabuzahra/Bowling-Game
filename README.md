@@ -7,4 +7,3 @@
 # 3- Open BowlingScene in :
 #    ├── Assets
 #    │   └── Scenes
-#    │       └── BowlingScene

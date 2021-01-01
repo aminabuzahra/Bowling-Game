@@ -14,5 +14,5 @@ Unity version 2019.4.17f1
 	.
 	├── Assets
 	│   └── Scenes
-	|   |   |-- BowlingScene.unity
+	|       |-- BowlingScene.unity
    

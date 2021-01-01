@@ -1,8 +1,8 @@
-## Simple Bowling Game
-### Unity version 2019.4.17f1
+##  Simple Bowling Video Game
+### Unity version: 2019.4.17f1
 
 1. Add the project to Unity Hub
-2. Choose the above Unity version (or later)
+2. Make sure the above mentioned Unity version (or later) is selected 
 3. Open the project
 4. Open BowlingScene from :
 ```

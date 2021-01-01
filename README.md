@@ -11,6 +11,8 @@ Unity version 2019.4.17f1
 
 4- Open BowlingScene from :
 
+	.
 	├── Assets
 	│   └── Scenes
+	|   |   |-- BowlingScene.unity
    

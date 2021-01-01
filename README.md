@@ -5,7 +5,8 @@
 2. Choose the above Unity version (or later)
 3. Open the project
 4. Open BowlingScene from :
--
+```
+	.
 	├── Assets
 	│   └── Scenes
 	|       |-- BowlingScene.unity

@@ -10,4 +10,4 @@
 	│   └── Scenes
 	|       |-- BowlingScene.unity
 ```
-5. Save the project.
+5. Save the project and the scene.

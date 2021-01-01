@@ -9,3 +9,5 @@
 	├── Assets
 	│   └── Scenes
 	|       |-- BowlingScene.unity
+```
+5. Save the project

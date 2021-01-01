@@ -9,7 +9,7 @@ Unity version 2019.4.17f1
 
 3- Open the project
 
-4- Open BowlingScene in :
+4- Open BowlingScene from :
 
 	├── Assets
 	│   └── Scenes
